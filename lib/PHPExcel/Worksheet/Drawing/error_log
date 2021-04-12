@@ -1,0 +1,1 @@
+[28-Dec-2015 13:31:32] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Worksheet/Drawing/Shadow.php on line 36

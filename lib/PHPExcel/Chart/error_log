@@ -1,0 +1,1 @@
+[28-Dec-2015 13:30:49] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Chart/Exception.php on line 36

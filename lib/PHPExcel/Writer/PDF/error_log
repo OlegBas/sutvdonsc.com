@@ -1,0 +1,4 @@
+[28-Dec-2015 13:31:30] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Writer/PDF/mPDF.php on line 30
+[28-Dec-2015 13:31:30] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Writer/PDF/Core.php on line 36
+[28-Dec-2015 13:31:30] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[28-Dec-2015 13:31:30] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Writer/PDF/DomPDF.php on line 30

@@ -1,0 +1,11 @@
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/APC.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/PHPTemp.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/SQLite3.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/SQLite.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/Memory.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/Wincache.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/Igbinary.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/DiscISAM.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/Memcache.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/MemoryGZip.php on line 36
+[28-Dec-2015 13:30:53] PHP Fatal error:  Class 'PHPExcel_CachedObjectStorage_CacheBase' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/CachedObjectStorage/MemorySerialized.php on line 36

@@ -1,0 +1,2 @@
+[28-Dec-2015 13:30:54] PHP Fatal error:  Interface 'PHPExcel_Reader_IReader' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Reader/Abstract.php on line 36
+[28-Dec-2015 13:30:54] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Reader/Exception.php on line 36

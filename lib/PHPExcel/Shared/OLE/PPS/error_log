@@ -1,0 +1,2 @@
+[28-Dec-2015 13:32:16] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Shared/OLE/PPS/File.php on line 30
+[28-Dec-2015 13:32:16] PHP Fatal error:  Class 'PHPExcel_Shared_OLE_PPS' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/Shared/OLE/PPS/Root.php on line 30

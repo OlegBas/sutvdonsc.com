@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8
+
+RewriteEngine on
+Options +FollowSymLinks
+RewriteBase /
+
+RewriteRule ^([a-z_0-9]+).html$ index.php?url=$1&%{QUERY_STRING}
+

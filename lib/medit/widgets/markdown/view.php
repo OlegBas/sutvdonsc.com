@@ -1,0 +1,1 @@
+<div ><?=lib_MarkdownExtra::defaultTransform($text)?></div>

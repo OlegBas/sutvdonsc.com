@@ -1,0 +1,2 @@
+[28-Dec-2015 13:30:52] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/RichText/Run.php on line 34
+[28-Dec-2015 13:30:53] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/cddromco/public_html/powermens.ru/function/PHPExcel/RichText/TextElement.php on line 34

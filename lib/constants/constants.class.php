@@ -1,0 +1,6 @@
+<?
+class lib_constants
+{
+
+}
+?>
